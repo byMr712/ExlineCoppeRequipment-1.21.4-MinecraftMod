@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "exlinecopperequipment",
-  "version": "",
+  "version": "${version}",
 
   "name": "Copper Equipment",
   "description": "This mod adds tools and armor made of copper!",
