@@ -13,7 +13,7 @@
     "issues": "https://discord.gg/9UVGJGyqbv"
   },
 
-  "license": "MIT",
+  "license": "Apache-2.0",
   "icon": "assets/exlinecopperequipment/icon.png",
 
   "environment": "*",
