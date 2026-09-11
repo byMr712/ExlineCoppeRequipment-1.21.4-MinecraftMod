@@ -8,3 +8,6 @@ Patch for version 1.21.4:
 - Updated Fabric Loom project build structure for Minecraft 1.21.4.
 
 Support: Fabric only!
+
+## Screenshots
+![Testing functionality](/images/ExlineCoppeRequipment_1_21_4.png)

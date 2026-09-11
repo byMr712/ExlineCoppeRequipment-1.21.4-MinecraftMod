@@ -45,9 +45,11 @@
   "item.exlinecopperequipment.copper_powder_snow_bucket": "Copper Powder Snow Bucket",
   "item.exlinecopperequipment.copper_sand_bucket": "Copper Sand Bucket",
   "item.exlinecopperequipment.copper_red_sand_bucket": "Copper Red Sand Bucket",
-  "item.exlinecopperequipment.copper_gravel_bucket": "Copper Gravel Sand Bucket",
+  "item.exlinecopperequipment.copper_gravel_bucket": "Copper Gravel Bucket",
   "item.exlinecopperequipment.copper_soul_sand_bucket": "Copper Soul Sand Bucket",
 
   "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
-  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+  "painting.exlinecopperequipment.copper_armor.author": "Exline",
+
+  "sounds.exlinecopperequipment.electric_crackle": "Electric crackle"
 }

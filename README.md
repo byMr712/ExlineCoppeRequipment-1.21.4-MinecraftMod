@@ -8,3 +8,6 @@
 - Обновлена структура сборки Fabric Loom под Minecraft 1.21.4.
 
 Поддержка: только Fabric!
+
+## Скриншоты
+![Тестирование работы](/images/ExlineCoppeRequipment_1_21_4.png)

@@ -8,20 +8,20 @@
   "item.exlinecopperequipment.copper_leggings": "Медные поножи",
   "item.exlinecopperequipment.copper_boots": "Медные ботинки",
 
-  "item.exlinecopperequipment.exposed_copper_helmet": "Медный шлем",
-  "item.exlinecopperequipment.exposed_copper_chestplate": "Медный нагрудник",
-  "item.exlinecopperequipment.exposed_copper_leggings": "Медные поножи",
-  "item.exlinecopperequipment.exposed_copper_boots": "Медные ботинки",
+  "item.exlinecopperequipment.exposed_copper_helmet": "Потускневший медный шлем",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Потускневший медный нагрудник",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Потускневшие медные поножи",
+  "item.exlinecopperequipment.exposed_copper_boots": "Потускневшие медные ботинки",
 
-  "item.exlinecopperequipment.weathered_copper_helmet": "Медный шлем",
-  "item.exlinecopperequipment.weathered_copper_chestplate": "Медный нагрудник",
-  "item.exlinecopperequipment.weathered_copper_leggings": "Медные поножи",
-  "item.exlinecopperequipment.weathered_copper_boots": "Медные ботинки",
+  "item.exlinecopperequipment.weathered_copper_helmet": "Состаренный медный шлем",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Состаренный медный нагрудник",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Состаренные медные поножи",
+  "item.exlinecopperequipment.weathered_copper_boots": "Состаренные медные ботинки",
 
-  "item.exlinecopperequipment.oxidized_copper_helmet": "Медный шлем",
-  "item.exlinecopperequipment.oxidized_copper_chestplate": "Медный нагрудник",
-  "item.exlinecopperequipment.oxidized_copper_leggings": "Медные поножи",
-  "item.exlinecopperequipment.oxidized_copper_boots": "Медные ботинки",
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Окисленный медный шлем",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Окисленный медный нагрудник",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Окисленные медные поножи",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Окисленные медные ботинки",
 
   "item.exlinecopperequipment.copper_pickaxe": "Медная кирка",
   "item.exlinecopperequipment.copper_axe": "Медный топор",
@@ -31,12 +31,25 @@
   "item.exlinecopperequipment.copper_sword": "Медный меч",
 
   "item.exlinecopperequipment.copper_horse_armor": "Медная конская броня",
-  "item.exlinecopperequipment.exposed_copper_horse_armor": "Медная конская броня",
-  "item.exlinecopperequipment.weathered_copper_horse_armor": "Медная конская броня",
-  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Медная конская броня",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Потускневшая медная конская броня",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Состаренная медная конская броня",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Окисленная медная конская броня",
 
   "item.exlinecopperequipment.copper_shears": "Медные ножницы",
 
-  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
-  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+  "item.exlinecopperequipment.copper_bow": "Медный лук",
+
+  "item.exlinecopperequipment.copper_bucket": "Медное ведро",
+  "item.exlinecopperequipment.copper_water_bucket": "Медное ведро воды",
+  "item.exlinecopperequipment.copper_milk_bucket": "Медное ведро молока",
+  "item.exlinecopperequipment.copper_powder_snow_bucket": "Медное ведро рыхлого снега",
+  "item.exlinecopperequipment.copper_sand_bucket": "Медное ведро с песком",
+  "item.exlinecopperequipment.copper_red_sand_bucket": "Медное ведро с красным песком",
+  "item.exlinecopperequipment.copper_gravel_bucket": "Медное ведро с гравием",
+  "item.exlinecopperequipment.copper_soul_sand_bucket": "Медное ведро с песком душ",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Медная броня",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline",
+
+  "sounds.exlinecopperequipment.electric_crackle": "Электрический треск"
 }
