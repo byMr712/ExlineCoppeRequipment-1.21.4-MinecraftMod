@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "exlinecopperequipment:item/oxidized_copper_bow_pulling_1"
+    }
+}

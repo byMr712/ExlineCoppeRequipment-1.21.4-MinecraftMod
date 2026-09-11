@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Thiết bị đồng",
+
+  "item.exlinecopperequipment.copper_nugget": "Mảnh đồng",
+
+  "item.exlinecopperequipment.copper_helmet": "Mũ đồng",
+  "item.exlinecopperequipment.copper_chestplate": "Áo giáp đồng",
+  "item.exlinecopperequipment.copper_leggings": "Quần đồng",
+  "item.exlinecopperequipment.copper_boots": "Giày đồng",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Mũ đồng lộ",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Áo giáp đồng lộ",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Quần đồng lộ",
+  "item.exlinecopperequipment.exposed_copper_boots": "Giày đồng lộ",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Mũ đồng cũ",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Áo giáp đồng cũ",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Quần đồng cũ",
+  "item.exlinecopperequipment.weathered_copper_boots": "Giày đồng cũ",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Mũ đồng oxi hóa",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Áo giáp đồng oxi hóa",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Quần đồng oxi hóa",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Giày đồng oxi hóa",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Cuốc đồng",
+  "item.exlinecopperequipment.copper_axe": "Rìu đồng",
+  "item.exlinecopperequipment.copper_hoe": "Cái cuốc đồng",
+  "item.exlinecopperequipment.copper_shovel": "Xẻng đồng",
+
+  "item.exlinecopperequipment.copper_sword": "Thanh kiếm đồng",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Áo giáp ngựa đồng",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Áo giáp ngựa đồng",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Áo giáp ngựa đồng",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Áo giáp ngựa đồng",
+
+  "item.exlinecopperequipment.copper_shears": "Kéo đồng",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

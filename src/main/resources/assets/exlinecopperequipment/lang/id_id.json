@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Perlengkapan Tembaga",
+
+  "item.exlinecopperequipment.copper_nugget": "Batu Tembaga",
+
+  "item.exlinecopperequipment.copper_helmet": "Helm Tembaga",
+  "item.exlinecopperequipment.copper_chestplate": "Plastron Tembaga",
+  "item.exlinecopperequipment.copper_leggings": "Celana Tembaga",
+  "item.exlinecopperequipment.copper_boots": "Sepatu Bot Tembaga",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Helm Tembaga Terbuka",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Plastron Tembaga Terbuka",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Celana Tembaga Terbuka",
+  "item.exlinecopperequipment.exposed_copper_boots": "Sepatu Bot Tembaga Terbuka",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Helm Tembaga Cuaca",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Plastron Tembaga Cuaca",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Celana Tembaga Cuaca",
+  "item.exlinecopperequipment.weathered_copper_boots": "Sepatu Bot Tembaga Cuaca",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Helm Tembaga Teroksidasi",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Plastron Tembaga Teroksidasi",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Celana Tembaga Teroksidasi",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Sepatu Bot Tembaga Teroksidasi",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Pikulan Tembaga",
+  "item.exlinecopperequipment.copper_axe": "Aks Tembaga",
+  "item.exlinecopperequipment.copper_hoe": "Cangkul Tembaga",
+  "item.exlinecopperequipment.copper_shovel": "Sekop Tembaga",
+
+  "item.exlinecopperequipment.copper_sword": "Pedang Tembaga",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Pelindung Kuda Tembaga",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Pelindung Kuda Tembaga",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Pelindung Kuda Tembaga",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Pelindung Kuda Tembaga",
+
+  "item.exlinecopperequipment.copper_shears": "Gunting Tembaga",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

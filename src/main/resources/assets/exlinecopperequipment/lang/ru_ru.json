@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Медная экипировка",
+
+  "item.exlinecopperequipment.copper_nugget": "Медный самородок",
+
+  "item.exlinecopperequipment.copper_helmet": "Медный шлем",
+  "item.exlinecopperequipment.copper_chestplate": "Медный нагрудник",
+  "item.exlinecopperequipment.copper_leggings": "Медные поножи",
+  "item.exlinecopperequipment.copper_boots": "Медные ботинки",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Медный шлем",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Медный нагрудник",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Медные поножи",
+  "item.exlinecopperequipment.exposed_copper_boots": "Медные ботинки",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Медный шлем",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Медный нагрудник",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Медные поножи",
+  "item.exlinecopperequipment.weathered_copper_boots": "Медные ботинки",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Медный шлем",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Медный нагрудник",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Медные поножи",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Медные ботинки",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Медная кирка",
+  "item.exlinecopperequipment.copper_axe": "Медный топор",
+  "item.exlinecopperequipment.copper_hoe": "Медная мотыга",
+  "item.exlinecopperequipment.copper_shovel": "Медная лопата",
+
+  "item.exlinecopperequipment.copper_sword": "Медный меч",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Медная конская броня",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Медная конская броня",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Медная конская броня",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Медная конская броня",
+
+  "item.exlinecopperequipment.copper_shears": "Медные ножницы",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

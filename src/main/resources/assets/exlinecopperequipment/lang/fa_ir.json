@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "تجهیزات مسی",
+
+  "item.exlinecopperequipment.copper_nugget": "قطعه مسی",
+
+  "item.exlinecopperequipment.copper_helmet": "کلاه‌خود مسی",
+  "item.exlinecopperequipment.copper_chestplate": "زره سینه مسی",
+  "item.exlinecopperequipment.copper_leggings": "شلوار مسی",
+  "item.exlinecopperequipment.copper_boots": "کفش مسی",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "کلاه‌خود مسی نمایان",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "زره سینه مسی نمایان",
+  "item.exlinecopperequipment.exposed_copper_leggings": "شلوار مسی نمایان",
+  "item.exlinecopperequipment.exposed_copper_boots": "کفش مسی نمایان",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "کلاه‌خود مسی فرسوده",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "زره سینه مسی فرسوده",
+  "item.exlinecopperequipment.weathered_copper_leggings": "شلوار مسی فرسوده",
+  "item.exlinecopperequipment.weathered_copper_boots": "کفش مسی فرسوده",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "کلاه‌خود مسی اکسیده",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "زره سینه مسی اکسیده",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "شلوار مسی اکسیده",
+  "item.exlinecopperequipment.oxidized_copper_boots": "کفش مسی اکسیده",
+
+  "item.exlinecopperequipment.copper_pickaxe": "تبر مسی",
+  "item.exlinecopperequipment.copper_axe": "فأس مسی",
+  "item.exlinecopperequipment.copper_hoe": "شو مسی",
+  "item.exlinecopperequipment.copper_shovel": "بیل مسی",
+
+  "item.exlinecopperequipment.copper_sword": "شمشیر مسی",
+
+  "item.exlinecopperequipment.copper_horse_armor": "زره اسب مسی",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "زره اسب مسی",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "زره اسب مسی",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "زره اسب مسی",
+
+  "item.exlinecopperequipment.copper_shears": "قیچی مسی",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

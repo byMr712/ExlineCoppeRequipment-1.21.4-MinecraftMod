@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Trealamh Copair",
+
+  "item.exlinecopperequipment.copper_nugget": "Rian Copair",
+
+  "item.exlinecopperequipment.copper_helmet": "Clochán Copair",
+  "item.exlinecopperequipment.copper_chestplate": "Clúdach Copair",
+  "item.exlinecopperequipment.copper_leggings": "Bríste Copair",
+  "item.exlinecopperequipment.copper_boots": "Bróga Copair",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Clochán Copair nochtaithe",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Clúdach Copair nochtaithe",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Bríste Copair nochtaithe",
+  "item.exlinecopperequipment.exposed_copper_boots": "Bróga Copair nochtaithe",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Clochán Copair Aoiseach",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Clúdach Copair Aoiseach",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Bríste Copair Aoiseacha",
+  "item.exlinecopperequipment.weathered_copper_boots": "Bróga Copair Aoiseacha",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Clochán Copair Ocsaídithe",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Clúdach Copair Ocsaídithe",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Bríste Copair Ocsaídithe",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Bróga Copair Ocsaídithe",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Mianra Copair",
+  "item.exlinecopperequipment.copper_axe": "Aicse Copair",
+  "item.exlinecopperequipment.copper_hoe": "Scuab Copair",
+  "item.exlinecopperequipment.copper_shovel": "Lámhán Copair",
+
+  "item.exlinecopperequipment.copper_sword": "Claíomh Copair",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Armúr Copair do Chapall",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Armúr Copair do Chapall",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Armúr Copair do Chapall",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Armúr Copair do Chapall",
+
+  "item.exlinecopperequipment.copper_shears": "Siúráin Copair",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

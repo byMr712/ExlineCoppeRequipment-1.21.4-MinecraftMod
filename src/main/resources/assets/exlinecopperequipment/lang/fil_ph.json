@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Kagamitan ng Tanso",
+
+  "item.exlinecopperequipment.copper_nugget": "Piraso ng Tanso",
+
+  "item.exlinecopperequipment.copper_helmet": "Helm ng Tanso",
+  "item.exlinecopperequipment.copper_chestplate": "Plastron ng Tanso",
+  "item.exlinecopperequipment.copper_leggings": "Pantalon ng Tanso",
+  "item.exlinecopperequipment.copper_boots": "Bota ng Tanso",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Hubad na Helm ng Tanso",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Hubad na Plastron ng Tanso",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Hubad na Pantalon ng Tanso",
+  "item.exlinecopperequipment.exposed_copper_boots": "Hubad na Bota ng Tanso",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Hirap na Helm ng Tanso",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Hirap na Plastron ng Tanso",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Hirap na Pantalon ng Tanso",
+  "item.exlinecopperequipment.weathered_copper_boots": "Hirap na Bota ng Tanso",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksidadong Helm ng Tanso",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksidadong Plastron ng Tanso",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksidadong Pantalon ng Tanso",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksidadong Bota ng Tanso",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Piko ng Tanso",
+  "item.exlinecopperequipment.copper_axe": "Axe ng Tanso",
+  "item.exlinecopperequipment.copper_hoe": "Pang-ani ng Tanso",
+  "item.exlinecopperequipment.copper_shovel": "Pala ng Tanso",
+
+  "item.exlinecopperequipment.copper_sword": "Espada ng Tanso",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Armour ng Kabayo na Tanso",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Armour ng Kabayo na Tanso",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Armour ng Kabayo na Tanso",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Armour ng Kabayo na Tanso",
+
+  "item.exlinecopperequipment.copper_shears": "Gunting ng Tanso",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

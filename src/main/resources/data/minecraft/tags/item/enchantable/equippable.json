@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "exlinecopperequipment:copper_helmet",
+    "exlinecopperequipment:copper_chestplate",
+    "exlinecopperequipment:copper_leggings",
+    "exlinecopperequipment:copper_boots"
+  ]
+}

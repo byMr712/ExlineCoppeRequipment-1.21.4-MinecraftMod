@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Equipo de Cobre",
+
+  "item.exlinecopperequipment.copper_nugget": "Trozo de Cobre",
+
+  "item.exlinecopperequipment.copper_helmet": "Casco de Cobre",
+  "item.exlinecopperequipment.copper_chestplate": "Pechera de Cobre",
+  "item.exlinecopperequipment.copper_leggings": "Pantalones de Cobre",
+  "item.exlinecopperequipment.copper_boots": "Botas de Cobre",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Casco de Cobre Expuesto",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Pechera de Cobre Expuesta",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Pantalones de Cobre Expuestos",
+  "item.exlinecopperequipment.exposed_copper_boots": "Botas de Cobre Expuestas",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Casco de Cobre Deteriorado",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Pechera de Cobre Deteriorada",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Pantalones de Cobre Deteriorados",
+  "item.exlinecopperequipment.weathered_copper_boots": "Botas de Cobre Deterioradas",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Casco de Cobre Oxidado",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Pechera de Cobre Oxidada",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Pantalones de Cobre Oxidados",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Botas de Cobre Oxidadas",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Pico de Cobre",
+  "item.exlinecopperequipment.copper_axe": "Hacha de Cobre",
+  "item.exlinecopperequipment.copper_hoe": "Azada de Cobre",
+  "item.exlinecopperequipment.copper_shovel": "Pala de Cobre",
+
+  "item.exlinecopperequipment.copper_sword": "Espada de Cobre",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Armadura de Cobre para Caballos",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Armadura de Cobre para Caballos",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Armadura de Cobre para Caballos",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Armadura de Cobre para Caballos",
+
+  "item.exlinecopperequipment.copper_shears": "Tijeras de Cobre",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

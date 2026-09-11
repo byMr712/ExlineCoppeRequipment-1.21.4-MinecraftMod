@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "معدات النحاس",
+
+  "item.exlinecopperequipment.copper_nugget": "شظية نحاس",
+
+  "item.exlinecopperequipment.copper_helmet": "خوذة نحاسية",
+  "item.exlinecopperequipment.copper_chestplate": "درع نحاسي",
+  "item.exlinecopperequipment.copper_leggings": "سروال نحاسي",
+  "item.exlinecopperequipment.copper_boots": "حذاء نحاسي",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "خوذة نحاسية مكشوفة",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "درع نحاسي مكشوف",
+  "item.exlinecopperequipment.exposed_copper_leggings": "سروال نحاسي مكشوف",
+  "item.exlinecopperequipment.exposed_copper_boots": "حذاء نحاسي مكشوف",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "خوذة نحاسية متآكلة",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "درع نحاسي متآكل",
+  "item.exlinecopperequipment.weathered_copper_leggings": "سروال نحاسي متآكل",
+  "item.exlinecopperequipment.weathered_copper_boots": "حذاء نحاسي متآكل",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "خوذة نحاسية مؤكسدة",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "درع نحاسي مؤكسد",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "سروال نحاسي مؤكسد",
+  "item.exlinecopperequipment.oxidized_copper_boots": "حذاء نحاسي مؤكسد",
+
+  "item.exlinecopperequipment.copper_pickaxe": "فأس نحاسية",
+  "item.exlinecopperequipment.copper_axe": "فأس نحاسية",
+  "item.exlinecopperequipment.copper_hoe": "محراث نحاسي",
+  "item.exlinecopperequipment.copper_shovel": "مجرفة نحاسية",
+
+  "item.exlinecopperequipment.copper_sword": "سيف نحاسي",
+
+  "item.exlinecopperequipment.copper_horse_armor": "دروع نحاسية للخيول",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "دروع حصان نحاسية",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "دروع حصان نحاسية",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "دروع حصان نحاسية",
+
+  "item.exlinecopperequipment.copper_shears": "مقص نحاسي",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

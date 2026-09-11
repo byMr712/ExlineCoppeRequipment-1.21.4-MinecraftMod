@@ -1,0 +1,7 @@
+{
+    "model": {
+    "type": "minecraft:model",
+    "model": "exlinecopperequipment:item/copper_leggings",
+    "layer1": "minecraft:trims/items/leggings_trim_netherite"
+    }
+}

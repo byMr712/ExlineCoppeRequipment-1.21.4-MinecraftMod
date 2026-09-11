@@ -1,0 +1,35 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "entries": [
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "exlinecopperequipment:item/oxidized_copper_helmet"
+                },
+                "threshold": 0.75
+            },
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "exlinecopperequipment:item/weathered_copper_helmet"
+                },
+                "threshold": 0.50
+            },
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "exlinecopperequipment:item/exposed_copper_helmet"
+                },
+                "threshold": 0.25
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "exlinecopperequipment:item/copper_helmet"
+        },
+        "property": "minecraft:damage",
+        "scale": 1.0
+    }
+}
+

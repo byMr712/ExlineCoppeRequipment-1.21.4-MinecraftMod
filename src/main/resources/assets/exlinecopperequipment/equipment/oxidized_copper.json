@@ -1,0 +1,7 @@
+{
+  "layers": {
+    "horse_body": [{"texture": "exlinecopperequipment:oxidized_copper"}],
+    "humanoid": [{"texture": "exlinecopperequipment:oxidized_copper"}],
+    "humanoid_leggings": [{"texture": "exlinecopperequipment:oxidized_copper"}]
+  }
+}

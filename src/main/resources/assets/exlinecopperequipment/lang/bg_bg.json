@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Медни Облекла",
+
+  "item.exlinecopperequipment.copper_nugget": "Медна Пърченце",
+
+  "item.exlinecopperequipment.copper_helmet": "Медна Шлем",
+  "item.exlinecopperequipment.copper_chestplate": "Медна Нагръдник",
+  "item.exlinecopperequipment.copper_leggings": "Медни Панталони",
+  "item.exlinecopperequipment.copper_boots": "Медни Боти",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Изложен Меден Шлем",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Изложен Меден Нагръдник",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Изложени Медни Панталони",
+  "item.exlinecopperequipment.exposed_copper_boots": "Изложени Медни Боти",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Износен Меден Шлем",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Износен Меден Нагръдник",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Износени Медни Панталони",
+  "item.exlinecopperequipment.weathered_copper_boots": "Износени Медни Боти",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Окислен Меден Шлем",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Окислен Меден Нагръдник",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Окислени Медни Панталони",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Окислени Медни Боти",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Медна Лопата",
+  "item.exlinecopperequipment.copper_axe": "Медна Брадва",
+  "item.exlinecopperequipment.copper_hoe": "Медна Лопата",
+  "item.exlinecopperequipment.copper_shovel": "Медна Лопатка",
+
+  "item.exlinecopperequipment.copper_sword": "Медно Меч",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Медна Конска Бронировка",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Медна Конска Бронировка",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Медна Конска Бронировка",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Медна Конска Бронировка",
+
+  "item.exlinecopperequipment.copper_shears": "Медни Ножици",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

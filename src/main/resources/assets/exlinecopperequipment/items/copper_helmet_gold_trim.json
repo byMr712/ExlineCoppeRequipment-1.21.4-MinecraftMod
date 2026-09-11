@@ -1,0 +1,7 @@
+{
+    "model": {
+    "type": "minecraft:model",
+    "model": "exlinecopperequipment:item/copper_helmet",
+    "layer1": "minecraft:trims/items/helmet_trim_gold"
+    }
+}

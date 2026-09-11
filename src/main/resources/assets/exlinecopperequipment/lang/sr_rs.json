@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Bakarna Oprema",
+
+  "item.exlinecopperequipment.copper_nugget": "Bakarni Komadić",
+
+  "item.exlinecopperequipment.copper_helmet": "Bakarna Šlem",
+  "item.exlinecopperequipment.copper_chestplate": "Bakarni Oklop",
+  "item.exlinecopperequipment.copper_leggings": "Bakarne Pantalone",
+  "item.exlinecopperequipment.copper_boots": "Bakarne Čizme",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Izloženi Bakarni Šlem",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Izloženi Bakarni Oklop",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Izložene Bakarne Pantalone",
+  "item.exlinecopperequipment.exposed_copper_boots": "Izložene Bakarne Čizme",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Ostarjeli Bakarni Šlem",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Ostarjeli Bakarni Oklop",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Ostarjele Bakarne Pantalone",
+  "item.exlinecopperequipment.weathered_copper_boots": "Ostarjele Bakarne Čizme",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksidirani Bakarni Šlem",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksidirani Bakarni Oklop",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksidirane Bakarne Pantalone",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksidirane Bakarne Čizme",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Bakarna Pikavica",
+  "item.exlinecopperequipment.copper_axe": "Bakarna Sekira",
+  "item.exlinecopperequipment.copper_hoe": "Bakarna Motika",
+  "item.exlinecopperequipment.copper_shovel": "Bakarna Lopata",
+
+  "item.exlinecopperequipment.copper_sword": "Bakarni Mač",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Bakarna Oklop za Konja",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Bakarna Oklop za Konja",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Bakarna Oklop za Konja",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Bakarna Oklop za Konja",
+
+  "item.exlinecopperequipment.copper_shears": "Bakarne Škare",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "exlinecopperequipment:copper_helmet",
+    "exlinecopperequipment:copper_chestplate",
+    "exlinecopperequipment:copper_leggings",
+    "exlinecopperequipment:copper_boots",
+    "exlinecopperequipment:copper_sword",
+    "exlinecopperequipment:copper_shovel",
+    "exlinecopperequipment:copper_pickaxe",
+    "exlinecopperequipment:copper_axe",
+    "exlinecopperequipment:copper_hoe"
+  ]
+}

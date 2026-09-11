@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "তামার সরঞ্জাম",
+
+  "item.exlinecopperequipment.copper_nugget": "তামার টুকরা",
+
+  "item.exlinecopperequipment.copper_helmet": "তামার হেলমেট",
+  "item.exlinecopperequipment.copper_chestplate": "তামার বর্ম",
+  "item.exlinecopperequipment.copper_leggings": "তামার প্যান্ট",
+  "item.exlinecopperequipment.copper_boots": "তামার বুট",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "খোলা তামার হেলমেট",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "খোলা তামার বর্ম",
+  "item.exlinecopperequipment.exposed_copper_leggings": "খোলা তামার প্যান্ট",
+  "item.exlinecopperequipment.exposed_copper_boots": "খোলা তামার বুট",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "ধুলোধূসর তামার হেলমেট",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "ধুলোধূসর তামার বর্ম",
+  "item.exlinecopperequipment.weathered_copper_leggings": "ধুলোধূসর তামার প্যান্ট",
+  "item.exlinecopperequipment.weathered_copper_boots": "ধুলোধূসর তামার বুট",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "অক্সিডাইজড তামার হেলমেট",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "অক্সিডাইজড তামার বর্ম",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "অক্সিডাইজড তামার প্যান্ট",
+  "item.exlinecopperequipment.oxidized_copper_boots": "অক্সিডাইজড তামার বুট",
+
+  "item.exlinecopperequipment.copper_pickaxe": "তামার হাতুড়ি",
+  "item.exlinecopperequipment.copper_axe": "তামার কুঠালি",
+  "item.exlinecopperequipment.copper_hoe": "তামার কোঁদাল",
+  "item.exlinecopperequipment.copper_shovel": "তামার খুড়ানো",
+
+  "item.exlinecopperequipment.copper_sword": "তামার তলোয়ার",
+
+  "item.exlinecopperequipment.copper_horse_armor": "তামার ঘোড়া বর্ম",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "তামার ঘোড়া বর্ম",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "তামার ঘোড়া বর্ম",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "তামার ঘোড়া বর্ম",
+
+  "item.exlinecopperequipment.copper_shears": "তামার কাঁচি",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

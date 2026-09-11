@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Sprzęt miedziany",
+
+  "item.exlinecopperequipment.copper_nugget": "Miedziany nugget",
+
+  "item.exlinecopperequipment.copper_helmet": "Miedziany hełm",
+  "item.exlinecopperequipment.copper_chestplate": "Miedziana napierśnik",
+  "item.exlinecopperequipment.copper_leggings": "Miedziane nagolenniki",
+  "item.exlinecopperequipment.copper_boots": "Miedziane buty",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Odsłonięty miedziany hełm",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Odsłonięty miedziany napierśnik",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Odsłonięte miedziane nagolenniki",
+  "item.exlinecopperequipment.exposed_copper_boots": "Odsłonięte miedziane buty",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Zwietrzały miedziany hełm",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Zwietrzały miedziany napierśnik",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Zwietrzałe miedziane nagolenniki",
+  "item.exlinecopperequipment.weathered_copper_boots": "Zwietrzałe miedziane buty",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Utleniony miedziany hełm",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Utleniony miedziany napierśnik",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Utlenione miedziane nagolenniki",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Utlenione miedziane buty",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Miedziany kilof",
+  "item.exlinecopperequipment.copper_axe": "Miedziana siekiera",
+  "item.exlinecopperequipment.copper_hoe": "Miedziana motyka",
+  "item.exlinecopperequipment.copper_shovel": "Miedziana łopata",
+
+  "item.exlinecopperequipment.copper_sword": "Miedziany miecz",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Miedziana zbroja dla konia",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Miedziana zbroja dla konia",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Miedziana zbroja dla konia",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Miedziana zbroja dla konia",
+
+  "item.exlinecopperequipment.copper_shears": "Miedziane nożyce",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

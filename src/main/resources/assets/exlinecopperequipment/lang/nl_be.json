@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Koperuitrusting",
+
+  "item.exlinecopperequipment.copper_nugget": "Koperen Brok",
+
+  "item.exlinecopperequipment.copper_helmet": "Koperen Helm",
+  "item.exlinecopperequipment.copper_chestplate": "Koperen Borstplaat",
+  "item.exlinecopperequipment.copper_leggings": "Koperen Broek",
+  "item.exlinecopperequipment.copper_boots": "Koperen Laarzen",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Blootgestelde Koperen Helm",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Blootgestelde Koperen Borstplaat",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Blootgestelde Koperen Broek",
+  "item.exlinecopperequipment.exposed_copper_boots": "Blootgestelde Koperen Laarzen",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Verweerde Koperen Helm",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Verweerde Koperen Borstplaat",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Verweerde Koperen Broek",
+  "item.exlinecopperequipment.weathered_copper_boots": "Verweerde Koperen Laarzen",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Geoxideerde Koperen Helm",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Geoxideerde Koperen Borstplaat",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Geoxideerde Koperen Broek",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Geoxideerde Koperen Laarzen",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Koperen Houweel",
+  "item.exlinecopperequipment.copper_axe": "Koperen Bijl",
+  "item.exlinecopperequipment.copper_hoe": "Koperen Hark",
+  "item.exlinecopperequipment.copper_shovel": "Koperen Schep",
+
+  "item.exlinecopperequipment.copper_sword": "Koperen Zwaard",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Koperen Paardenzadel",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Koperen Paardenzadel",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Koperen Paardenzadel",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Koperen Paardenzadel",
+
+  "item.exlinecopperequipment.copper_shears": "Koperen Schaar",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Kopparutrustning",
+
+  "item.exlinecopperequipment.copper_nugget": "Kopparklimp",
+
+  "item.exlinecopperequipment.copper_helmet": "Kopparhjälm",
+  "item.exlinecopperequipment.copper_chestplate": "Kopparbröstplåt",
+  "item.exlinecopperequipment.copper_leggings": "Kopparbyxor",
+  "item.exlinecopperequipment.copper_boots": "Kopparstövlar",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Exponerad Kopparhjälm",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Exponerad Kopparbröstplåt",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Exponerade Kopparbyxor",
+  "item.exlinecopperequipment.exposed_copper_boots": "Exponerade Kopparstövlar",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Vädertålig Kopparhjälm",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Vädertålig Kopparbröstplåt",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Vädertåliga Kopparbyxor",
+  "item.exlinecopperequipment.weathered_copper_boots": "Vädertåliga Kopparstövlar",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oxiderad Kopparhjälm",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oxiderad Kopparbröstplåt",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oxiderade Kopparbyxor",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oxiderade Kopparstövlar",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Kopparspade",
+  "item.exlinecopperequipment.copper_axe": "Kopparyxa",
+  "item.exlinecopperequipment.copper_hoe": "Kopparhacka",
+  "item.exlinecopperequipment.copper_shovel": "Kopparskoj",
+
+  "item.exlinecopperequipment.copper_sword": "Kopparsvärd",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Kopparhästskydd",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Kopparhästskydd",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Kopparhästskydd",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Kopparhästskydd",
+
+  "item.exlinecopperequipment.copper_shears": "Kopparsax",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

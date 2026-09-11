@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Měděné vybavení",
+
+  "item.exlinecopperequipment.copper_nugget": "Měděná ingotka",
+
+  "item.exlinecopperequipment.copper_helmet": "Měděná helma",
+  "item.exlinecopperequipment.copper_chestplate": "Měděná zbroj",
+  "item.exlinecopperequipment.copper_leggings": "Měděné kalhoty",
+  "item.exlinecopperequipment.copper_boots": "Měděné boty",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Exponovaná měděná helma",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Exponovaná měděná zbroj",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Exponované měděné kalhoty",
+  "item.exlinecopperequipment.exposed_copper_boots": "Exponované měděné boty",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Ošuntělá měděná helma",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Ošuntělá měděná zbroj",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Ošuntělé měděné kalhoty",
+  "item.exlinecopperequipment.weathered_copper_boots": "Ošuntělé měděné boty",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oxidovaná měděná helma",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oxidovaná měděná zbroj",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oxidované měděné kalhoty",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oxidované měděné boty",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Měděná krumpáč",
+  "item.exlinecopperequipment.copper_axe": "Měděná sekera",
+  "item.exlinecopperequipment.copper_hoe": "Měděná motyka",
+  "item.exlinecopperequipment.copper_shovel": "Měděná lopata",
+
+  "item.exlinecopperequipment.copper_sword": "Měděný meč",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Měděná kovářská zbroj",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Měděná kovářská zbroj",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Měděná kovářská zbroj",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Měděná kovářská zbroj",
+
+  "item.exlinecopperequipment.copper_shears": "Měděné nůžky",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

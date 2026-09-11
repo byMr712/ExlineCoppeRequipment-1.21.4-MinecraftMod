@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Мідне обладнання ❤️ Ми вас підтримуємо!",
+
+  "item.exlinecopperequipment.copper_nugget": "Мідний шматок",
+
+  "item.exlinecopperequipment.copper_helmet": "Мідний шолом",
+  "item.exlinecopperequipment.copper_chestplate": "Мідний нагрудник",
+  "item.exlinecopperequipment.copper_leggings": "Мідні легінси",
+  "item.exlinecopperequipment.copper_boots": "Мідні черевики",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Відкритий мідний шолом",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Відкритий мідний нагрудник",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Відкриті мідні легінси",
+  "item.exlinecopperequipment.exposed_copper_boots": "Відкриті мідні черевики",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Потертий мідний шолом",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Потертий мідний нагрудник",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Потерті мідні легінси",
+  "item.exlinecopperequipment.weathered_copper_boots": "Потерті мідні черевики",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Окислений мідний шолом",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Окислений мідний нагрудник",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Окислені мідні легінси",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Окислені мідні черевики",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Мідний кирка",
+  "item.exlinecopperequipment.copper_axe": "Мідна сокира",
+  "item.exlinecopperequipment.copper_hoe": "Мідна лопата",
+  "item.exlinecopperequipment.copper_shovel": "Мідна лопата",
+
+  "item.exlinecopperequipment.copper_sword": "Мідний меч",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Мідна броня для коня",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Мідна броня для коня",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Мідна броня для коня",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Мідна броня для коня",
+
+  "item.exlinecopperequipment.copper_shears": "Мідні ножиці",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

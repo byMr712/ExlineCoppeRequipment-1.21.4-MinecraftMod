@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Mis Avadanlığı",
+
+  "item.exlinecopperequipment.copper_nugget": "Mis Parçası",
+
+  "item.exlinecopperequipment.copper_helmet": "Mis Şapka",
+  "item.exlinecopperequipment.copper_chestplate": "Mis Döşəməsi",
+  "item.exlinecopperequipment.copper_leggings": "Mis Şalvar",
+  "item.exlinecopperequipment.copper_boots": "Mis Çəkmələr",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Açıq Mis Şapka",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Açıq Mis Döşəməsi",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Açıq Mis Şalvar",
+  "item.exlinecopperequipment.exposed_copper_boots": "Açıq Mis Çəkmələr",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Qaralmış Mis Şapka",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Qaralmış Mis Döşəməsi",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Qaralmış Mis Şalvar",
+  "item.exlinecopperequipment.weathered_copper_boots": "Qaralmış Mis Çəkmələr",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksidləşmiş Mis Şapka",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksidləşmiş Mis Döşəməsi",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksidləşmiş Mis Şalvar",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksidləşmiş Mis Çəkmələr",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Mis Pikası",
+  "item.exlinecopperequipment.copper_axe": "Mis Balta",
+  "item.exlinecopperequipment.copper_hoe": "Mis Şumrası",
+  "item.exlinecopperequipment.copper_shovel": "Mis Təsbeh",
+
+  "item.exlinecopperequipment.copper_sword": "Mis Qılıncı",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Mis At Zirehi",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Mis At Zirehi",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Mis At Zirehi",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Mis At Zirehi",
+
+  "item.exlinecopperequipment.copper_shears": "Mis Dırnaqlar",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

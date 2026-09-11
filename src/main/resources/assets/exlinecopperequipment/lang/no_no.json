@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Kobberutstyr",
+
+  "item.exlinecopperequipment.copper_nugget": "Kobberbit",
+
+  "item.exlinecopperequipment.copper_helmet": "Kobberhjelm",
+  "item.exlinecopperequipment.copper_chestplate": "Kobberbrystplate",
+  "item.exlinecopperequipment.copper_leggings": "Kobberbukser",
+  "item.exlinecopperequipment.copper_boots": "Kobbersko",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Eksponert Kobberhjelm",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Eksponert Kobberbrystplate",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Eksponert Kobberbukser",
+  "item.exlinecopperequipment.exposed_copper_boots": "Eksponert Kobbersko",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Værbitt Kobberhjelm",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Værbitt Kobberbrystplate",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Værbitt Kobberbukser",
+  "item.exlinecopperequipment.weathered_copper_boots": "Værbitt Kobbersko",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksidert Kobberhjelm",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksidert Kobberbrystplate",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksidert Kobberbukser",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksidert Kobbersko",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Kobberspade",
+  "item.exlinecopperequipment.copper_axe": "Kobberøks",
+  "item.exlinecopperequipment.copper_hoe": "Kobberhakke",
+  "item.exlinecopperequipment.copper_shovel": "Kobberspade",
+
+  "item.exlinecopperequipment.copper_sword": "Kobberøks",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Kobberhestebeskytter",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Kobberhestebeskytter",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Kobberhestebeskytter",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Kobberhestebeskytter",
+
+  "item.exlinecopperequipment.copper_shears": "Kobberklipper",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "exlinecopperequipment:copper_bucket",
+    "minecraft:bucket"
+  ]
+}

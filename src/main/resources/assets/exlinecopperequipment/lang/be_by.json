@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Медныя прылады",
+
+  "item.exlinecopperequipment.copper_nugget": "Медная здабытак",
+
+  "item.exlinecopperequipment.copper_helmet": "Медны шлем",
+  "item.exlinecopperequipment.copper_chestplate": "Медны бляшанка",
+  "item.exlinecopperequipment.copper_leggings": "Медныя штаны",
+  "item.exlinecopperequipment.copper_boots": "Медныя чаравікі",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Адкрыты медны шлем",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Адкрыты медны бляшанка",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Адкрыты медныя штаны",
+  "item.exlinecopperequipment.exposed_copper_boots": "Адкрыты медныя чаравікі",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Паветраны медны шлем",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Паветраны медны бляшанка",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Паветраны медныя штаны",
+  "item.exlinecopperequipment.weathered_copper_boots": "Паветраны медныя чаравікі",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Оксідаваны медны шлем",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Оксідаваны медны бляшанка",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Оксідаваныя медныя штаны",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Оксідаваныя медныя чаравікі",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Медны кирка",
+  "item.exlinecopperequipment.copper_axe": "Медная сякера",
+  "item.exlinecopperequipment.copper_hoe": "Медная лапата",
+  "item.exlinecopperequipment.copper_shovel": "Медная лопата",
+
+  "item.exlinecopperequipment.copper_sword": "Медны меч",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Медная конская бляшанка",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Медная конская бляшанка",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Медная конская бляшанка",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Медная конская бляшанка",
+
+  "item.exlinecopperequipment.copper_shears": "Медныя нажніцы",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

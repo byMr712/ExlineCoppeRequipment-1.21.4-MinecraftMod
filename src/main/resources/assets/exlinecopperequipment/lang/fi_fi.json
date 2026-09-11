@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Kuparivarusteet",
+
+  "item.exlinecopperequipment.copper_nugget": "Kuparinpala",
+
+  "item.exlinecopperequipment.copper_helmet": "Kuparikypärä",
+  "item.exlinecopperequipment.copper_chestplate": "Kuparipaita",
+  "item.exlinecopperequipment.copper_leggings": "Kuparihousut",
+  "item.exlinecopperequipment.copper_boots": "Kuparikengät",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Altistunut kuparikypärä",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Altistunut kuparipaita",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Altistuneet kuparihousut",
+  "item.exlinecopperequipment.exposed_copper_boots": "Altistuneet kuparikengät",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Säätynyt kuparikypärä",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Säätynyt kuparipaita",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Säätyneet kuparihousut",
+  "item.exlinecopperequipment.weathered_copper_boots": "Säätyneet kuparikengät",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Hapettunut kuparikypärä",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Hapettunut kuparipaita",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Hapettuneet kuparihousut",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Hapettuneet kuparikengät",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Kuparikaira",
+  "item.exlinecopperequipment.copper_axe": "Kuparisaha",
+  "item.exlinecopperequipment.copper_hoe": "Kuparikapula",
+  "item.exlinecopperequipment.copper_shovel": "Kuparilapiot",
+
+  "item.exlinecopperequipment.copper_sword": "Kuparimiekka",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Kuparinen hevosensuoja",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Kuparinen hevosensuoja",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Kuparinen hevosensuoja",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Kuparinen hevosensuoja",
+
+  "item.exlinecopperequipment.copper_shears": "Kuparileikkurit",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

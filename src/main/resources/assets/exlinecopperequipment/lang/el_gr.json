@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Εξοπλισμός Χαλκού",
+
+  "item.exlinecopperequipment.copper_nugget": "Χαλκός Κομμάτι",
+
+  "item.exlinecopperequipment.copper_helmet": "Κράνος Χαλκού",
+  "item.exlinecopperequipment.copper_chestplate": "Θώρακας Χαλκού",
+  "item.exlinecopperequipment.copper_leggings": "Κολάν Χαλκού",
+  "item.exlinecopperequipment.copper_boots": "Μπότες Χαλκού",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Εκτεθειμένο Κράνος Χαλκού",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Εκτεθειμένος Θώρακας Χαλκού",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Εκτεθειμένα Κολάν Χαλκού",
+  "item.exlinecopperequipment.exposed_copper_boots": "Εκτεθειμένες Μπότες Χαλκού",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Φθαρμένο Κράνος Χαλκού",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Φθαρμένος Θώρακας Χαλκού",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Φθαρμένα Κολάν Χαλκού",
+  "item.exlinecopperequipment.weathered_copper_boots": "Φθαρμένες Μπότες Χαλκού",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Οξειδωμένο Κράνος Χαλκού",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Οξειδωμένος Θώρακας Χαλκού",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Οξειδωμένα Κολάν Χαλκού",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Οξειδωμένες Μπότες Χαλκού",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Πικελοφόρος Χαλκού",
+  "item.exlinecopperequipment.copper_axe": "Πελέκι Χαλκού",
+  "item.exlinecopperequipment.copper_hoe": "Ξυλοκόπος Χαλκού",
+  "item.exlinecopperequipment.copper_shovel": "Φτυάρι Χαλκού",
+
+  "item.exlinecopperequipment.copper_sword": "Ξίφος Χαλκού",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Αρματωσιά Χαλκού για Άλογο",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Αρματωσιά Χαλκού για Άλογο",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Αρματωσιά Χαλκού για Άλογο",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Αρματωσιά Χαλκού για Άλογο",
+
+  "item.exlinecopperequipment.copper_shears": "Ψαλίδι Χαλκού",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Variniai Įrenginiai",
+
+  "item.exlinecopperequipment.copper_nugget": "Varinis Luitas",
+
+  "item.exlinecopperequipment.copper_helmet": "Varinis Šalmas",
+  "item.exlinecopperequipment.copper_chestplate": "Varinis Krūtinės Šarvas",
+  "item.exlinecopperequipment.copper_leggings": "Varinės Kelnės",
+  "item.exlinecopperequipment.copper_boots": "Variniai Batai",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Atidengtas Varinis Šalmas",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Atidengtas Varinis Krūtinės Šarvas",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Atidengtos Varinės Kelnės",
+  "item.exlinecopperequipment.exposed_copper_boots": "Atidengti Variniai Batai",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Oru Pažeistas Varinis Šalmas",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Oru Pažeistas Varinis Krūtinės Šarvas",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Oru Pažeistos Varinės Kelnės",
+  "item.exlinecopperequipment.weathered_copper_boots": "Oru Pažeisti Variniai Batai",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksiduotas Varinis Šalmas",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksiduotas Varinis Krūtinės Šarvas",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksiduotos Varinės Kelnės",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksiduoti Variniai Batai",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Varinis Kirtiklis",
+  "item.exlinecopperequipment.copper_axe": "Varinis Kirvis",
+  "item.exlinecopperequipment.copper_hoe": "Varinis Grėblys",
+  "item.exlinecopperequipment.copper_shovel": "Varinė Kastas",
+
+  "item.exlinecopperequipment.copper_sword": "Varinis Kalavijas",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Variniai Žirgo Šarvai",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Variniai Žirgo Šarvai",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Variniai Žirgo Šarvai",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Variniai Žirgo Šarvai",
+
+  "item.exlinecopperequipment.copper_shears": "Variniai Žirklės",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Meďová Výbava",
+
+  "item.exlinecopperequipment.copper_nugget": "Medený Kúsok",
+
+  "item.exlinecopperequipment.copper_helmet": "Medená Prilba",
+  "item.exlinecopperequipment.copper_chestplate": "Medený Brnenie",
+  "item.exlinecopperequipment.copper_leggings": "Medené Nohavice",
+  "item.exlinecopperequipment.copper_boots": "Medené Topánky",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Odhalená Medená Prilba",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Odhalené Medené Brnenie",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Odhalené Medené Nohavice",
+  "item.exlinecopperequipment.exposed_copper_boots": "Odhalené Medené Topánky",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Opotrebovaná Medená Prilba",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Opotrebované Medené Brnenie",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Opotrebované Medené Nohavice",
+  "item.exlinecopperequipment.weathered_copper_boots": "Opotrebované Medené Topánky",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oxidovaná Medená Prilba",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oxidované Medené Brnenie",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oxidované Medené Nohavice",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oxidované Medené Topánky",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Medený Kladivo",
+  "item.exlinecopperequipment.copper_axe": "Medená Sekera",
+  "item.exlinecopperequipment.copper_hoe": "Medená Motyka",
+  "item.exlinecopperequipment.copper_shovel": "Medená Lopatka",
+
+  "item.exlinecopperequipment.copper_sword": "Medený Meč",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Medená Zbroj na Kone",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Medená Zbroj na Kone",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Medená Zbroj na Kone",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Medená Zbroj na Kone",
+
+  "item.exlinecopperequipment.copper_shears": "Medené Nožnice",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

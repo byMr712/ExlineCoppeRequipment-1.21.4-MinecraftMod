@@ -1,0 +1,53 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Copper Gear, Mate",
+
+  "item.exlinecopperequipment.copper_nugget": "Copper Nugget",
+
+  "item.exlinecopperequipment.copper_helmet": "Copper Bush Hat",
+  "item.exlinecopperequipment.copper_chestplate": "Copper Work Vest",
+  "item.exlinecopperequipment.copper_leggings": "Copper Daks",
+  "item.exlinecopperequipment.copper_boots": "Copper Blundstones",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Exposed Copper Bush Hat",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Exposed Copper Work Vest",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Exposed Copper Daks",
+  "item.exlinecopperequipment.exposed_copper_boots": "Exposed Copper Blundstones",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Weathered Copper Bush Hat",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Weathered Copper Work Vest",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Weathered Copper Daks",
+  "item.exlinecopperequipment.weathered_copper_boots": "Weathered Copper Blundstones",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oxidized Copper Bush Hat",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oxidized Copper Work Vest",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oxidized Copper Daks",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oxidized Copper Blundstones",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Copper Digger",
+  "item.exlinecopperequipment.copper_axe": "Copper Chopper",
+  "item.exlinecopperequipment.copper_hoe": "Copper Crop Kicker",
+  "item.exlinecopperequipment.copper_shovel": "Copper Dirt Mover",
+
+  "item.exlinecopperequipment.copper_sword": "Copper Croc Cutter",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Copper Brumby Guard",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Exposed Copper Brumby Guard",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Weathered Copper Brumby Guard",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Oxidized Copper Brumby Guard",
+
+  "item.exlinecopperequipment.copper_shears": "Copper Shears",
+
+  "item.exlinecopperequipment.copper_bow": "Copper Bow",
+
+  "item.exlinecopperequipment.copper_bucket": "Copper Bucket",
+  "item.exlinecopperequipment.copper_water_bucket": "Copper Water Bucket",
+  "item.exlinecopperequipment.copper_milk_bucket": "Copper Milk Bucket",
+  "item.exlinecopperequipment.copper_powder_snow_bucket": "Copper Powder Snow Bucket",
+  "item.exlinecopperequipment.copper_sand_bucket": "Copper Sand Bucket",
+  "item.exlinecopperequipment.copper_red_sand_bucket": "Copper Red Sand Bucket",
+  "item.exlinecopperequipment.copper_gravel_bucket": "Copper Gravel Sand Bucket",
+  "item.exlinecopperequipment.copper_soul_sand_bucket": "Copper Soul Sand Bucket",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

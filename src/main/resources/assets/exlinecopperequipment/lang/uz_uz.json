@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Mis Jihozlari",
+
+  "item.exlinecopperequipment.copper_nugget": "Mis Bo‘lagi",
+
+  "item.exlinecopperequipment.copper_helmet": "Mis Shlem",
+  "item.exlinecopperequipment.copper_chestplate": "Mis Ko‘krak Plitasi",
+  "item.exlinecopperequipment.copper_leggings": "Mis Shimlari",
+  "item.exlinecopperequipment.copper_boots": "Mis Botinkalari",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Ochilgan Mis Shlem",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Ochilgan Mis Ko‘krak Plitasi",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Ochilgan Mis Shimlari",
+  "item.exlinecopperequipment.exposed_copper_boots": "Ochilgan Mis Botinkalari",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Eskirgan Mis Shlem",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Eskirgan Mis Ko‘krak Plitasi",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Eskirgan Mis Shimlari",
+  "item.exlinecopperequipment.weathered_copper_boots": "Eskirgan Mis Botinkalari",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Okislangan Mis Shlem",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Okislangan Mis Ko‘krak Plitasi",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Okislangan Mis Shimlari",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Okislangan Mis Botinkalari",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Mis Bolg‘asi",
+  "item.exlinecopperequipment.copper_axe": "Mis O‘q",
+  "item.exlinecopperequipment.copper_hoe": "Mis Bog‘lash",
+  "item.exlinecopperequipment.copper_shovel": "Mis Loy",
+
+  "item.exlinecopperequipment.copper_sword": "Mis Qilichi",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Mis Ot Qal‘asi",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Mis Ot Qal‘asi",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Mis Ot Qal‘asi",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Mis Ot Qal‘asi",
+
+  "item.exlinecopperequipment.copper_shears": "Mis Qirqish",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

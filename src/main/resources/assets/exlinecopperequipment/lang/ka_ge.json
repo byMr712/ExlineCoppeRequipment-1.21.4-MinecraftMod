@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "铜设备",
+
+  "item.exlinecopperequipment.copper_nugget": "铜块",
+
+  "item.exlinecopperequipment.copper_helmet": "铜头盔",
+  "item.exlinecopperequipment.copper_chestplate": "铜胸甲",
+  "item.exlinecopperequipment.copper_leggings": "铜护腿",
+  "item.exlinecopperequipment.copper_boots": "铜靴子",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "裸铜头盔",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "裸铜胸甲",
+  "item.exlinecopperequipment.exposed_copper_leggings": "裸铜护腿",
+  "item.exlinecopperequipment.exposed_copper_boots": "裸铜靴子",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "风化铜头盔",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "风化铜胸甲",
+  "item.exlinecopperequipment.weathered_copper_leggings": "风化铜护腿",
+  "item.exlinecopperequipment.weathered_copper_boots": "风化铜靴子",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "氧化铜头盔",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "氧化铜胸甲",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "氧化铜护腿",
+  "item.exlinecopperequipment.oxidized_copper_boots": "氧化铜靴子",
+
+  "item.exlinecopperequipment.copper_pickaxe": "铜镐",
+  "item.exlinecopperequipment.copper_axe": "铜斧",
+  "item.exlinecopperequipment.copper_hoe": "铜锄",
+  "item.exlinecopperequipment.copper_shovel": "铜铲",
+
+  "item.exlinecopperequipment.copper_sword": "铜剑",
+
+  "item.exlinecopperequipment.copper_horse_armor": "铜马甲",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "铜马甲",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "铜马甲",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "铜马甲",
+
+  "item.exlinecopperequipment.copper_shears": "铜剪刀",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

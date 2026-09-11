@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+    "layer0": "exlinecopperequipment:item/copper_pickaxe"
+    },
+
+    "overrides": [
+        {"predicate": {"minecraft:damage":  0.25}, "model":  "exlinecopperequipment:item/exposed_copper_pickaxe"},
+        {"predicate": {"minecraft:damage":  0.50}, "model":  "exlinecopperequipment:item/weathered_copper_pickaxe"},
+        {"predicate": {"minecraft:damage":  0.75}, "model":  "exlinecopperequipment:item/oxidized_copper_pickaxe"}
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Мыс Жабдықтары",
+
+  "item.exlinecopperequipment.copper_nugget": "Мыс Түйнегі",
+
+  "item.exlinecopperequipment.copper_helmet": "Мыс Қалқан",
+  "item.exlinecopperequipment.copper_chestplate": "Мыс Кеудешесі",
+  "item.exlinecopperequipment.copper_leggings": "Мыс Жеңіл Жабдық",
+  "item.exlinecopperequipment.copper_boots": "Мыс Ботинка",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Ашық Мыс Қалқан",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Ашық Мыс Кеудешесі",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Ашық Мыс Жеңіл Жабдық",
+  "item.exlinecopperequipment.exposed_copper_boots": "Ашық Мыс Ботинка",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Ескірген Мыс Қалқан",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Ескірген Мыс Кеудешесі",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Ескірген Мыс Жеңіл Жабдық",
+  "item.exlinecopperequipment.weathered_copper_boots": "Ескірген Мыс Ботинка",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Тотығқан Мыс Қалқан",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Тотығқан Мыс Кеудешесі",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Тотығқан Мыс Жеңіл Жабдық",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Тотығқан Мыс Ботинка",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Мыс Тапанша",
+  "item.exlinecopperequipment.copper_axe": "Мыс Балтасы",
+  "item.exlinecopperequipment.copper_hoe": "Мыс Құрал",
+  "item.exlinecopperequipment.copper_shovel": "Мыс Лопатка",
+
+  "item.exlinecopperequipment.copper_sword": "Мыс Қылыш",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Мыс Ат Жабдықтары",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Мыс Ат Жабдықтары",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Мыс Ат Жабдықтары",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Мыс Ат Жабдықтары",
+
+  "item.exlinecopperequipment.copper_shears": "Мыс Қайшы",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Echipament din Cupru",
+
+  "item.exlinecopperequipment.copper_nugget": "Pietricica de Cupru",
+
+  "item.exlinecopperequipment.copper_helmet": "Casca de Cupru",
+  "item.exlinecopperequipment.copper_chestplate": "Placa de Cupru",
+  "item.exlinecopperequipment.copper_leggings": "Pantaloni din Cupru",
+  "item.exlinecopperequipment.copper_boots": "Bocanci din Cupru",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Casca de Cupru Expusă",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Placa de Cupru Expusă",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Pantaloni din Cupru Expusi",
+  "item.exlinecopperequipment.exposed_copper_boots": "Bocanci din Cupru Expusi",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Casca de Cupru Uscată",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Placa de Cupru Uscată",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Pantaloni din Cupru Uscați",
+  "item.exlinecopperequipment.weathered_copper_boots": "Bocanci din Cupru Uscați",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Casca de Cupru Oxidată",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Placa de Cupru Oxidată",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Pantaloni din Cupru Oxidați",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Bocanci din Cupru Oxidați",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Coasă din Cupru",
+  "item.exlinecopperequipment.copper_axe": "Topor din Cupru",
+  "item.exlinecopperequipment.copper_hoe": "Sapa din Cupru",
+  "item.exlinecopperequipment.copper_shovel": "Lopată din Cupru",
+
+  "item.exlinecopperequipment.copper_sword": "Sabie din Cupru",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Armura de Cal din Cupru",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Armura de Cal din Cupru",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Armura de Cal din Cupru",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Armura de Cal din Cupru",
+
+  "item.exlinecopperequipment.copper_shears": "Foarfeca din Cupru",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

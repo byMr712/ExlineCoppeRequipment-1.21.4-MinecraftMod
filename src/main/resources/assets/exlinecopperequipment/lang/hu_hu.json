@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Réz Felszerelés",
+
+  "item.exlinecopperequipment.copper_nugget": "Réz Rög",
+
+  "item.exlinecopperequipment.copper_helmet": "Réz Sisak",
+  "item.exlinecopperequipment.copper_chestplate": "Réz Páncél",
+  "item.exlinecopperequipment.copper_leggings": "Réz Nadrág",
+  "item.exlinecopperequipment.copper_boots": "Réz Csizma",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Kitesztett Réz Sisak",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Kitesztett Réz Páncél",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Kitesztett Réz Nadrág",
+  "item.exlinecopperequipment.exposed_copper_boots": "Kitesztett Réz Csizma",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Időjárásnak Kitett Réz Sisak",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Időjárásnak Kitett Réz Páncél",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Időjárásnak Kitett Réz Nadrág",
+  "item.exlinecopperequipment.weathered_copper_boots": "Időjárásnak Kitett Réz Csizma",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oxidált Réz Sisak",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oxidált Réz Páncél",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oxidált Réz Nadrág",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oxidált Réz Csizma",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Réz Fejsze",
+  "item.exlinecopperequipment.copper_axe": "Réz Balta",
+  "item.exlinecopperequipment.copper_hoe": "Réz Kapálókészülék",
+  "item.exlinecopperequipment.copper_shovel": "Réz Lapát",
+
+  "item.exlinecopperequipment.copper_sword": "Réz Kard",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Réz Ló Páncél",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Réz Ló Páncél",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Réz Ló Páncél",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Réz Ló Páncél",
+
+  "item.exlinecopperequipment.copper_shears": "Réz Olló",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

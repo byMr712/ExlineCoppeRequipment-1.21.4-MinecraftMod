@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Kupferausrüstung",
+
+  "item.exlinecopperequipment.copper_nugget": "Kupferklumpen",
+
+  "item.exlinecopperequipment.copper_helmet": "Kupferhelm",
+  "item.exlinecopperequipment.copper_chestplate": "Kupferbrustplatte",
+  "item.exlinecopperequipment.copper_leggings": "Kupferhose",
+  "item.exlinecopperequipment.copper_boots": "Kupferstiefel",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Freiliegender Kupferhelm",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Freiliegende Kupferbrustplatte",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Freiliegende Kupferhose",
+  "item.exlinecopperequipment.exposed_copper_boots": "Freiliegende Kupferstiefel",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Wettergegerbter Kupferhelm",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Wettergegerbte Kupferbrustplatte",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Wettergegerbte Kupferhose",
+  "item.exlinecopperequipment.weathered_copper_boots": "Wettergegerbte Kupferstiefel",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oxidierter Kupferhelm",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oxidierte Kupferbrustplatte",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oxidierte Kupferhose",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oxidierte Kupferstiefel",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Kupferpickaxe",
+  "item.exlinecopperequipment.copper_axe": "Kupferaxt",
+  "item.exlinecopperequipment.copper_hoe": "Kupferhacke",
+  "item.exlinecopperequipment.copper_shovel": "Kupferschaufel",
+
+  "item.exlinecopperequipment.copper_sword": "Kupferschwert",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Kupferpferderüstung",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Kupferpferderüstung",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Kupferpferderüstung",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Kupferpferderüstung",
+
+  "item.exlinecopperequipment.copper_shears": "Kupferscherenset",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+    "layer0": "exlinecopperequipment:item/copper_soul_sand_bucket"
+    }
+}

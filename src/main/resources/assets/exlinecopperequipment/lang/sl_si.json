@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Kovinske naprave iz bakra",
+
+  "item.exlinecopperequipment.copper_nugget": "Bakerjev kos",
+
+  "item.exlinecopperequipment.copper_helmet": "Bakerjev čelada",
+  "item.exlinecopperequipment.copper_chestplate": "Bakerjeva jopič",
+  "item.exlinecopperequipment.copper_leggings": "Bakerjevi hlačnice",
+  "item.exlinecopperequipment.copper_boots": "Bakerjevi čevlji",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Izpostavljena bakerjeva čelada",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Izpostavljena bakerjeva jopič",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Izpostavljeni bakerjevi hlačnice",
+  "item.exlinecopperequipment.exposed_copper_boots": "Izpostavljeni bakerjevi čevlji",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Zastrta bakerjeva čelada",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Zastrta bakerjeva jopič",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Zastrta bakerjevi hlačnice",
+  "item.exlinecopperequipment.weathered_copper_boots": "Zastrta bakerjevi čevlji",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksidirana bakerjeva čelada",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksidirana bakerjeva jopič",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksidirana bakerjevi hlačnice",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksidirana bakerjevi čevlji",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Bakerjeva lopata",
+  "item.exlinecopperequipment.copper_axe": "Bakerjev seki",
+  "item.exlinecopperequipment.copper_hoe": "Bakerjev motika",
+  "item.exlinecopperequipment.copper_shovel": "Bakerjev lopat",
+
+  "item.exlinecopperequipment.copper_sword": "Bakerjev meč",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Bakerjeva konjska oprema",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Bakerjeva konjska oprema",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Bakerjeva konjska oprema",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Bakerjeva konjska oprema",
+
+  "item.exlinecopperequipment.copper_shears": "Bakerjeve škarje",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

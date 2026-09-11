@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    "exlinecopperequipment:copper_pickaxe",
+    "exlinecopperequipment:copper_shovel",
+    "exlinecopperequipment:copper_axe",
+    "exlinecopperequipment:copper_hoe",
+    "exlinecopperequipment:copper_sword",
+    "exlinecopperequipment:copper_helmet",
+    "exlinecopperequipment:copper_chestplate",
+    "exlinecopperequipment:copper_leggings",
+    "exlinecopperequipment:copper_boots",
+    "exlinecopperequipment:exposed_copper_helmet",
+    "exlinecopperequipment:exposed_copper_chestplate",
+    "exlinecopperequipment:exposed_copper_leggings",
+    "exlinecopperequipment:exposed_copper_boots",
+    "exlinecopperequipment:weathered_copper_helmet",
+    "exlinecopperequipment:weathered_copper_chestplate",
+    "exlinecopperequipment:weathered_copper_leggings",
+    "exlinecopperequipment:weathered_copper_boots",
+    "exlinecopperequipment:oxidized_copper_helmet",
+    "exlinecopperequipment:oxidized_copper_chestplate",
+    "exlinecopperequipment:oxidized_copper_leggings",
+    "exlinecopperequipment:oxidized_copper_boots",
+    "exlinecopperequipment:copper_horse_armor",
+    "exlinecopperequipment:exposed_copper_horse_armor",
+    "exlinecopperequipment:weathered_copper_horse_armor",
+    "exlinecopperequipment:oxidized_copper_horse_armor",
+    "exlinecopperequipment:copper_shears",
+    "exlinecopperequipment:copper_bow"
+  ],
+  "result": {
+    "id": "exlinecopperequipment:copper_nugget"
+  }
+}

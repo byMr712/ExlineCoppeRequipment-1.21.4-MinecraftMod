@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "exlinecopperequipment:copper_shovel",
+    "exlinecopperequipment:copper_pickaxe",
+    "exlinecopperequipment:copper_axe",
+    "exlinecopperequipment:copper_hoe"
+  ]
+}

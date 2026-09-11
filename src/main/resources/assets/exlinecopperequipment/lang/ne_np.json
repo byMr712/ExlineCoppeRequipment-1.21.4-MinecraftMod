@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "तामाको उपकरण",
+
+  "item.exlinecopperequipment.copper_nugget": "तामाको टुक्रा",
+
+  "item.exlinecopperequipment.copper_helmet": "तामाको हेलमेट",
+  "item.exlinecopperequipment.copper_chestplate": "तामाको चेस्ट प्लेट",
+  "item.exlinecopperequipment.copper_leggings": "तामाको लेग्गिङ्स",
+  "item.exlinecopperequipment.copper_boots": "तामाको जुत्ता",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "खुला तामाको हेलमेट",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "खुला तामाको चेस्ट प्लेट",
+  "item.exlinecopperequipment.exposed_copper_leggings": "खुला तामाको लेग्गिङ्स",
+  "item.exlinecopperequipment.exposed_copper_boots": "खुला तामाको जुत्ता",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "मध्यकालीन तामाको हेलमेट",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "मध्यकालीन तामाको चेस्ट प्लेट",
+  "item.exlinecopperequipment.weathered_copper_leggings": "मध्यकालीन तामाको लेग्गिङ्स",
+  "item.exlinecopperequipment.weathered_copper_boots": "मध्यकालीन तामाको जुत्ता",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "अक्सिडाइज्ड तामाको हेलमेट",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "अक्सिडाइज्ड तामाको चेस्ट प्लेट",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "अक्सिडाइज्ड तामाको लेग्गिङ्स",
+  "item.exlinecopperequipment.oxidized_copper_boots": "अक्सिडाइज्ड तामाको जुत्ता",
+
+  "item.exlinecopperequipment.copper_pickaxe": "तामाको फावड़ा",
+  "item.exlinecopperequipment.copper_axe": "तामाको कुल्हाड़ी",
+  "item.exlinecopperequipment.copper_hoe": "तामाको हें",
+  "item.exlinecopperequipment.copper_shovel": "तामाको खुर",
+
+  "item.exlinecopperequipment.copper_sword": "तामाको छुरा",
+
+  "item.exlinecopperequipment.copper_horse_armor": "तामाको घोडा कवच",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "तामाको घोडा कवच",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "तामाको घोडा कवच",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "तामाको घोडा कवच",
+
+  "item.exlinecopperequipment.copper_shears": "तामाको कैंची",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

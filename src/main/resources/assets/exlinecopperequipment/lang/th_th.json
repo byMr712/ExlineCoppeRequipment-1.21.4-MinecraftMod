@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "อุปกรณ์ทองแดง",
+
+  "item.exlinecopperequipment.copper_nugget": "ทองแดงชิ้น",
+
+  "item.exlinecopperequipment.copper_helmet": "หมวกเหล็กทองแดง",
+  "item.exlinecopperequipment.copper_chestplate": "เสื้อเกราะทองแดง",
+  "item.exlinecopperequipment.copper_leggings": "กางเกงทองแดง",
+  "item.exlinecopperequipment.copper_boots": "รองเท้าทองแดง",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "หมวกเหล็กทองแดง (เปิดเผย)",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "เสื้อเกราะทองแดง (เปิดเผย)",
+  "item.exlinecopperequipment.exposed_copper_leggings": "กางเกงทองแดง (เปิดเผย)",
+  "item.exlinecopperequipment.exposed_copper_boots": "รองเท้าทองแดง (เปิดเผย)",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "หมวกเหล็กทองแดง (สึกหรอ)",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "เสื้อเกราะทองแดง (สึกหรอ)",
+  "item.exlinecopperequipment.weathered_copper_leggings": "กางเกงทองแดง (สึกหรอ)",
+  "item.exlinecopperequipment.weathered_copper_boots": "รองเท้าทองแดง (สึกหรอ)",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "หมวกเหล็กทองแดง (ออกซิไดซ์)",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "เสื้อเกราะทองแดง (ออกซิไดซ์)",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "กางเกงทองแดง (ออกซิไดซ์)",
+  "item.exlinecopperequipment.oxidized_copper_boots": "รองเท้าทองแดง (ออกซิไดซ์)",
+
+  "item.exlinecopperequipment.copper_pickaxe": "เหมืองทองแดง",
+  "item.exlinecopperequipment.copper_axe": "ขวานทองแดง",
+  "item.exlinecopperequipment.copper_hoe": "จอบทองแดง",
+  "item.exlinecopperequipment.copper_shovel": "พลั่วทองแดง",
+
+  "item.exlinecopperequipment.copper_sword": "ดาบทองแดง",
+
+  "item.exlinecopperequipment.copper_horse_armor": "ชุดเกราะม้าทองแดง",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "ชุดเกราะม้าทองแดง",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "ชุดเกราะม้าทองแดง",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "ชุดเกราะม้าทองแดง",
+
+  "item.exlinecopperequipment.copper_shears": "กรรไกรทองแดง",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

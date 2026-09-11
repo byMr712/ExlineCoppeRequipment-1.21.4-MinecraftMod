@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Équipement en cuivre",
+
+  "item.exlinecopperequipment.copper_nugget": "Fragment de cuivre",
+
+  "item.exlinecopperequipment.copper_helmet": "Casque en cuivre",
+  "item.exlinecopperequipment.copper_chestplate": "Plastron en cuivre",
+  "item.exlinecopperequipment.copper_leggings": "Jambières en cuivre",
+  "item.exlinecopperequipment.copper_boots": "Bottes en cuivre",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Casque en cuivre exposé",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Plastron en cuivre exposé",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Jambières en cuivre exposées",
+  "item.exlinecopperequipment.exposed_copper_boots": "Bottes en cuivre exposées",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Casque en cuivre usé",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Plastron en cuivre usé",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Jambières en cuivre usées",
+  "item.exlinecopperequipment.weathered_copper_boots": "Bottes en cuivre usées",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Casque en cuivre oxydé",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Plastron en cuivre oxydé",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Jambières en cuivre oxydées",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Bottes en cuivre oxydées",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Pioches en cuivre",
+  "item.exlinecopperequipment.copper_axe": "Hache en cuivre",
+  "item.exlinecopperequipment.copper_hoe": "Houe en cuivre",
+  "item.exlinecopperequipment.copper_shovel": "Pelle en cuivre",
+
+  "item.exlinecopperequipment.copper_sword": "Épée en cuivre",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Armure de cheval en cuivre",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Armure de cheval en cuivre",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Armure de cheval en cuivre",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Armure de cheval en cuivre",
+
+  "item.exlinecopperequipment.copper_shears": "Cisailles en cuivre",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+    "layer0": "exlinecopperequipment:item/copper_powder_snow_bucket"
+    }
+}

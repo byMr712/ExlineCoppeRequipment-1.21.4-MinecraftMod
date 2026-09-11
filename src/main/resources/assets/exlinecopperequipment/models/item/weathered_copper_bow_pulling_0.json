@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "exlinecopperequipment:item/weathered_copper_bow_pulling_0"
+    }
+}

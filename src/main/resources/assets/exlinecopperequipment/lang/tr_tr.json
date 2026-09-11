@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Bakır Ekipmanları",
+
+  "item.exlinecopperequipment.copper_nugget": "Bakır Parçası",
+
+  "item.exlinecopperequipment.copper_helmet": "Bakır Miğferi",
+  "item.exlinecopperequipment.copper_chestplate": "Bakır Zırhı",
+  "item.exlinecopperequipment.copper_leggings": "Bakır Pantolonu",
+  "item.exlinecopperequipment.copper_boots": "Bakır Botları",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Açık Bakır Miğferi",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Açık Bakır Zırhı",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Açık Bakır Pantolonu",
+  "item.exlinecopperequipment.exposed_copper_boots": "Açık Bakır Botları",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Hava Şartlarından Etkilenmiş Bakır Miğferi",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Hava Şartlarından Etkilenmiş Bakır Zırhı",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Hava Şartlarından Etkilenmiş Bakır Pantolonu",
+  "item.exlinecopperequipment.weathered_copper_boots": "Hava Şartlarından Etkilenmiş Bakır Botları",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksitlenmiş Bakır Miğferi",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksitlenmiş Bakır Zırhı",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksitlenmiş Bakır Pantolonu",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksitlenmiş Bakır Botları",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Bakır Kazması",
+  "item.exlinecopperequipment.copper_axe": "Bakır Balta",
+  "item.exlinecopperequipment.copper_hoe": "Bakır Çapa",
+  "item.exlinecopperequipment.copper_shovel": "Bakır Kürek",
+
+  "item.exlinecopperequipment.copper_sword": "Bakır Kılıcı",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Bakır At Zırhı",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Bakır At Zırhı",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Bakır At Zırhı",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Bakır At Zırhı",
+
+  "item.exlinecopperequipment.copper_shears": "Bakır Makas",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

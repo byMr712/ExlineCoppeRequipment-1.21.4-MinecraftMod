@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Vaskvarustus",
+
+  "item.exlinecopperequipment.copper_nugget": "Vasktükk",
+
+  "item.exlinecopperequipment.copper_helmet": "Vaskkiiver",
+  "item.exlinecopperequipment.copper_chestplate": "Vaskrinnetootus",
+  "item.exlinecopperequipment.copper_leggings": "Vaskpüksid",
+  "item.exlinecopperequipment.copper_boots": "Vasksaapad",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Avatud Vaskkiiver",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Avatud Vaskrinnetootus",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Avatud Vaskpüksid",
+  "item.exlinecopperequipment.exposed_copper_boots": "Avatud Vasksaapad",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Vaskkiiver Kulunud",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Vaskrinnetootus Kulunud",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Vaskpüksid Kulunud",
+  "item.exlinecopperequipment.weathered_copper_boots": "Vasksaapad Kulunud",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksüdeeritud Vaskkiiver",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksüdeeritud Vaskrinnetootus",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksüdeeritud Vaskpüksid",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksüdeeritud Vasksaapad",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Vasklabidas",
+  "item.exlinecopperequipment.copper_axe": "Vaskhark",
+  "item.exlinecopperequipment.copper_hoe": "Vaskkühvel",
+  "item.exlinecopperequipment.copper_shovel": "Vasklabidas",
+
+  "item.exlinecopperequipment.copper_sword": "Vasksõrmus",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Vaskhobuse Kaitse",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Vaskhobuse Kaitse",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Vaskhobuse Kaitse",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Vaskhobuse Kaitse",
+
+  "item.exlinecopperequipment.copper_shears": "Vasklõikur",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

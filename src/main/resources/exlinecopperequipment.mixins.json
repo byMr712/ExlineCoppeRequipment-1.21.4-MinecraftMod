@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.exline.exlinecopperequipment.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "HorseEntityMixin",
+    "SheepMixIn",
+    "CowMixIn",
+    "GoatMixIn"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "exlinecopperequipment-refmap.json"
+}

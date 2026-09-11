@@ -1,0 +1,7 @@
+{
+    "model": {
+    "type": "minecraft:model",
+    "model": "exlinecopperequipment:item/copper_chestplate",
+    "layer1": "minecraft:trims/items/chestplate_trim_netherite"
+    }
+}

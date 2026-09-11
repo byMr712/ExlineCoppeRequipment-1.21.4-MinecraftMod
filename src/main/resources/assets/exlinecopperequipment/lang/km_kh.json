@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "ឧបករណ៍ប្រេងមាស",
+
+  "item.exlinecopperequipment.copper_nugget": "កំប៉ុងប្រេង",
+
+  "item.exlinecopperequipment.copper_helmet": "មួកប្រេង",
+  "item.exlinecopperequipment.copper_chestplate": "ការពារពោះប្រេង",
+  "item.exlinecopperequipment.copper_leggings": "បាញ់ប្រេង",
+  "item.exlinecopperequipment.copper_boots": "ស្បែកជើងប្រេង",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "មួកប្រេងបង្ហាញ",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "ការពារពោះប្រេងបង្ហាញ",
+  "item.exlinecopperequipment.exposed_copper_leggings": "បាញ់ប្រេងបង្ហាញ",
+  "item.exlinecopperequipment.exposed_copper_boots": "ស្បែកជើងប្រេងបង្ហាញ",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "មួកប្រេងមានសំណុំពីពេលវេលា",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "ការពារពោះប្រេងមានសំណុំពីពេលវេលា",
+  "item.exlinecopperequipment.weathered_copper_leggings": "បាញ់ប្រេងមានសំណុំពីពេលវេលា",
+  "item.exlinecopperequipment.weathered_copper_boots": "ស្បែកជើងប្រេងមានសំណុំពីពេលវេលា",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "មួកប្រេងអុកស៊ីដេត",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "ការពារពោះប្រេងអុកស៊ីដេត",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "បាញ់ប្រេងអុកស៊ីដេត",
+  "item.exlinecopperequipment.oxidized_copper_boots": "ស្បែកជើងប្រេងអុកស៊ីដេត",
+
+  "item.exlinecopperequipment.copper_pickaxe": "រ៉ាំប្រេង",
+  "item.exlinecopperequipment.copper_axe": "តាមប្រេង",
+  "item.exlinecopperequipment.copper_hoe": "គំនូបប្រេង",
+  "item.exlinecopperequipment.copper_shovel": "កោលប្រេង",
+
+  "item.exlinecopperequipment.copper_sword": "អាវុធប្រេង",
+
+  "item.exlinecopperequipment.copper_horse_armor": "ការពារហ្សោមប្រេង",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "ការពារហ្សោមប្រេង",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "ការពារហ្សោមប្រេង",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "ការពារហ្សោមប្រេង",
+
+  "item.exlinecopperequipment.copper_shears": "កាំបិតប្រេង",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

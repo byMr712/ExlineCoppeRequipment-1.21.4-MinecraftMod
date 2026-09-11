@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Equipaggiamento in rame",
+
+  "item.exlinecopperequipment.copper_nugget": "Pezzetto di rame",
+
+  "item.exlinecopperequipment.copper_helmet": "Elmo di rame",
+  "item.exlinecopperequipment.copper_chestplate": "Corpetto di rame",
+  "item.exlinecopperequipment.copper_leggings": "Pantaloni di rame",
+  "item.exlinecopperequipment.copper_boots": "Stivali di rame",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Elmo di rame esposto",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Corpetto di rame esposto",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Pantaloni di rame esposti",
+  "item.exlinecopperequipment.exposed_copper_boots": "Stivali di rame esposti",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Elmo di rame invecchiato",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Corpetto di rame invecchiato",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Pantaloni di rame invecchiati",
+  "item.exlinecopperequipment.weathered_copper_boots": "Stivali di rame invecchiati",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Elmo di rame ossidato",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Corpetto di rame ossidato",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Pantaloni di rame ossidati",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Stivali di rame ossidati",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Piccone di rame",
+  "item.exlinecopperequipment.copper_axe": "Ascia di rame",
+  "item.exlinecopperequipment.copper_hoe": "Zappa di rame",
+  "item.exlinecopperequipment.copper_shovel": "Pala di rame",
+
+  "item.exlinecopperequipment.copper_sword": "Spada di rame",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Armatura di cavallo in rame",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Armatura di cavallo in rame",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Armatura di cavallo in rame",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Armatura di cavallo in rame",
+
+  "item.exlinecopperequipment.copper_shears": "Forbici di rame",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

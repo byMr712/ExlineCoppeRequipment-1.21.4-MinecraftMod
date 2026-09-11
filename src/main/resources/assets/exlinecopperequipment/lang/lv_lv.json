@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Vara Aprīkojums",
+
+  "item.exlinecopperequipment.copper_nugget": "Vara Gabals",
+
+  "item.exlinecopperequipment.copper_helmet": "Vara Helmets",
+  "item.exlinecopperequipment.copper_chestplate": "Vara Krūšu Pārsegs",
+  "item.exlinecopperequipment.copper_leggings": "Vara Bikses",
+  "item.exlinecopperequipment.copper_boots": "Vara Zābaki",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "Atklāts Vara Helmets",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "Atklāts Vara Krūšu Pārsegs",
+  "item.exlinecopperequipment.exposed_copper_leggings": "Atklātas Vara Bikses",
+  "item.exlinecopperequipment.exposed_copper_boots": "Atklāti Vara Zābaki",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "Novecojis Vara Helmets",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "Novecojis Vara Krūšu Pārsegs",
+  "item.exlinecopperequipment.weathered_copper_leggings": "Novecojušas Vara Bikses",
+  "item.exlinecopperequipment.weathered_copper_boots": "Novecojuši Vara Zābaki",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "Oksidēts Vara Helmets",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "Oksidēts Vara Krūšu Pārsegs",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "Oksidētas Vara Bikses",
+  "item.exlinecopperequipment.oxidized_copper_boots": "Oksidēti Vara Zābaki",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Vara Zāģis",
+  "item.exlinecopperequipment.copper_axe": "Vara Cirvis",
+  "item.exlinecopperequipment.copper_hoe": "Vara Kāts",
+  "item.exlinecopperequipment.copper_shovel": "Vara Špakteļlāpsta",
+
+  "item.exlinecopperequipment.copper_sword": "Vara Zobens",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Vara Zirgus Bruņas",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "Vara Zirgus Bruņas",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "Vara Zirgus Bruņas",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "Vara Zirgus Bruņas",
+
+  "item.exlinecopperequipment.copper_shears": "Vara Šķēres",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

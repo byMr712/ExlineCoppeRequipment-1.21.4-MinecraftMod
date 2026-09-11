@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "B": "minecraft:copper_ingot",
+        "S": "minecraft:stick"
+
+    },
+    "pattern": [
+        "BB ",
+        " S ",
+        " S "
+    ],
+    "result": {
+        "count": 1,
+        "id": "exlinecopperequipment:copper_hoe"
+    }
+}

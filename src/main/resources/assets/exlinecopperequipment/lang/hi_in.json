@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "तांबे का उपकरण",
+
+  "item.exlinecopperequipment.copper_nugget": "तांबे का टुकड़ा",
+
+  "item.exlinecopperequipment.copper_helmet": "तांबे की हेलमेट",
+  "item.exlinecopperequipment.copper_chestplate": "तांबे की चेस्टप्लेट",
+  "item.exlinecopperequipment.copper_leggings": "तांबे की पैंट",
+  "item.exlinecopperequipment.copper_boots": "तांबे के बूट",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "खुला तांबे का हेलमेट",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "खुली तांबे की चेस्टप्लेट",
+  "item.exlinecopperequipment.exposed_copper_leggings": "खुली तांबे की पैंट",
+  "item.exlinecopperequipment.exposed_copper_boots": "खुले तांबे के बूट",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "मौसम से प्रभावित तांबे का हेलमेट",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "मौसम से प्रभावित तांबे की चेस्टप्लेट",
+  "item.exlinecopperequipment.weathered_copper_leggings": "मौसम से प्रभावित तांबे की पैंट",
+  "item.exlinecopperequipment.weathered_copper_boots": "मौसम से प्रभावित तांबे के बूट",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "ऑक्सीडाइज्ड तांबे का हेलमेट",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "ऑक्सीडाइज्ड तांबे की चेस्टप्लेट",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "ऑक्सीडाइज्ड तांबे की पैंट",
+  "item.exlinecopperequipment.oxidized_copper_boots": "ऑक्सीडाइज्ड तांबे के बूट",
+
+  "item.exlinecopperequipment.copper_pickaxe": "तांबे की कुल्हाड़ी",
+  "item.exlinecopperequipment.copper_axe": "तांबे का आरा",
+  "item.exlinecopperequipment.copper_hoe": "तांबे की हल",
+  "item.exlinecopperequipment.copper_shovel": "तांबे की खुदाई",
+
+  "item.exlinecopperequipment.copper_sword": "तांबे की तलवार",
+
+  "item.exlinecopperequipment.copper_horse_armor": "तांबे का घोड़ा कवच",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "तांबे का घोड़ा कवच",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "तांबे का घोड़ा कवच",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "तांबे का घोड़ा कवच",
+
+  "item.exlinecopperequipment.copper_shears": "तांबे की कैंची",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}

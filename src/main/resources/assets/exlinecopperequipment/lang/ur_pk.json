@@ -1,0 +1,42 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "تانبے کا ساز و سامان",
+
+  "item.exlinecopperequipment.copper_nugget": "تانبے کا ٹکڑا",
+
+  "item.exlinecopperequipment.copper_helmet": "تانبے کی ٹوپی",
+  "item.exlinecopperequipment.copper_chestplate": "تانبے کی چھاتی کی پلیٹ",
+  "item.exlinecopperequipment.copper_leggings": "تانبے کی پتلون",
+  "item.exlinecopperequipment.copper_boots": "تانبے کے جوتے",
+
+  "item.exlinecopperequipment.exposed_copper_helmet": "ظاہر ہونے والی تانبے کی ٹوپی",
+  "item.exlinecopperequipment.exposed_copper_chestplate": "ظاہر ہونے والی تانبے کی چھاتی کی پلیٹ",
+  "item.exlinecopperequipment.exposed_copper_leggings": "ظاہر ہونے والی تانبے کی پتلون",
+  "item.exlinecopperequipment.exposed_copper_boots": "ظاہر ہونے والے تانبے کے جوتے",
+
+  "item.exlinecopperequipment.weathered_copper_helmet": "پرانے تانبے کی ٹوپی",
+  "item.exlinecopperequipment.weathered_copper_chestplate": "پرانے تانبے کی چھاتی کی پلیٹ",
+  "item.exlinecopperequipment.weathered_copper_leggings": "پرانے تانبے کی پتلون",
+  "item.exlinecopperequipment.weathered_copper_boots": "پرانے تانبے کے جوتے",
+
+  "item.exlinecopperequipment.oxidized_copper_helmet": "زنگ آلود تانبے کی ٹوپی",
+  "item.exlinecopperequipment.oxidized_copper_chestplate": "زنگ آلود تانبے کی چھاتی کی پلیٹ",
+  "item.exlinecopperequipment.oxidized_copper_leggings": "زنگ آلود تانبے کی پتلون",
+  "item.exlinecopperequipment.oxidized_copper_boots": "زنگ آلود تانبے کے جوتے",
+
+  "item.exlinecopperequipment.copper_pickaxe": "تانبے کی کدال",
+  "item.exlinecopperequipment.copper_axe": "تانبے کا تیشہ",
+  "item.exlinecopperequipment.copper_hoe": "تانبے کی بیل",
+  "item.exlinecopperequipment.copper_shovel": "تانبے کی بیلچہ",
+
+  "item.exlinecopperequipment.copper_sword": "تانبے کی تلوار",
+
+  "item.exlinecopperequipment.copper_horse_armor": "تانبے کا گھوڑا کا ساز و سامان",
+  "item.exlinecopperequipment.exposed_copper_horse_armor": "تانبے کا گھوڑا کا ساز و سامان",
+  "item.exlinecopperequipment.weathered_copper_horse_armor": "تانبے کا گھوڑا کا ساز و سامان",
+  "item.exlinecopperequipment.oxidized_copper_horse_armor": "تانبے کا گھوڑا کا ساز و سامان",
+
+  "item.exlinecopperequipment.copper_shears": "تانبے کے کینچی",
+
+  "painting.exlinecopperequipment.copper_armor.title": "Copper Armor",
+  "painting.exlinecopperequipment.copper_armor.author": "Exline"
+}
