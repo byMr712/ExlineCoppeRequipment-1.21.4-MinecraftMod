@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "exlinecopperequipment",
-  "version": "3.2.0",
+  "version": "",
 
   "name": "Copper Equipment",
   "description": "This mod adds tools and armor made of copper!",
   "authors": [
-    "Exline"
+    "exline"
   ],
   "contact": {
-    "homepage": "https://exlinemods.com/",
+    "homepage": "https://modrinth.com/mod/exlines-copper-equipment",
     "issues": "https://discord.gg/9UVGJGyqbv"
   },
 
