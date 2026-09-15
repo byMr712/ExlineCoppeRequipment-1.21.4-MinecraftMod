@@ -1,12 +1,11 @@
 {
-    "type": "crafting_shapeless",
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
     "ingredients": [
-        {
-            "item": "minecraft:copper_ingot"
-        }
+        "minecraft:copper_ingot"
     ],
     "result": {
-        "item": "exlinecopperequipment:copper_nugget",
+        "id": "exlinecopperequipment:copper_nugget",
         "count": 9
     }
 }
