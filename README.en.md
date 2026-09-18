@@ -1,4 +1,4 @@
-# Copper Equipment (Fabric 1.21.4)
+# Exline's Copper Equipment (Fabric 1.21.4)
 > **Language:** English · [Russian](README.md)
 
 ## Fork Description
